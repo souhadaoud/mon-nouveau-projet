@@ -8,3 +8,5 @@ joblib
 openpyxl
 seaborn
 matplotlib
+mlflow
+imbalanced-learn
